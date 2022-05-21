@@ -1,0 +1,30 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <symbol id="icon-folder" viewBox="0 0 32 32">
+      <title>folder</title>
+      <path d="M14 4l4 4h14v22h-32v-26z"></path>
+    </symbol>
+    <!-- <symbol id="icon-folder-open" viewBox="0 0 32 32">
+      <title>open</title>
+      <path d="M26 30l6-16h-26l-6 16zM4 12l-4 18v-26h9l4 4h13v4z">
+      </path>
+    </symbol>
+    <symbol id="icon-folder-plus" viewBox="0 0 32 32">
+      <title>plus</title>
+      <path d="M18 8l-4-4h-14v26h32v-22h-14zM22 22h-4v4h-4v-4h-4v-4h4v-4h4v4h4v4z">
+      </path>
+    </symbol>
+    <symbol id="icon-folder-minus" viewBox="0 0 32 32">
+      <title>minus</title>
+      <path d="M18 8l-4-4h-14v26h32v-22h-14zM22 22h-12v-4h12v4z"></path>
+    </symbol>
+    <symbol id="icon-folder-download" viewBox="0 0 32 32">
+      <title>download</title>
+      <path d="M18 8l-4-4h-14v26h32v-22h-14zM16 27l-7-7h5v-8h4v8h5l-7 7z"></path>
+    </symbol>
+    <symbol id="icon-folder-upload" viewBox="0 0 32 32">
+      <title>upload</title>
+      <path d="M18 8l-4-4h-14v26h32v-22h-14zM16 15l7 7h-5v8h-4v-8h-5l7-7z"></path>
+    </symbol> -->
+  </defs>
+</svg>

@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'Raleway Variable';
+    src: url('Raleway-VariableFont_wght.woff2') format('woff2');
+    src: url('Raleway-VariableFont_wght.ttf') format('truetype');
+}
+  
+body {
+    font-family: 'Raleway Variable', sans-serif;
+}
+
+
 .parent {
     height: 300px;
     width: 600px;
@@ -146,5 +157,82 @@ html {
 }
 
 .break-float {
-    float: none;
+    clear: both;
 }
+
+
+
+h1 {
+    font-family: 'Raleway Variable';
+    font-weight: 430;
+}
+
+
+
+.low-lev-font {
+    font-variation-settings: 'wght' 630, 'wdth' 88;
+  }
+
+
+
+* {
+    box-sizing: border-box;
+}
+ 
+html, body {
+     padding: 0; 
+     margin: 0;
+ }
+ 
+.slideshow {
+   scroll-snap-type: x mandatory; /* Indicates scroll axis and behavior */
+   overflow-x: auto;              /* Should be either `scroll` or `auto` */
+   display: flex;
+   height: 100vh;
+}
+ 
+.slideshow img {
+   width: 100vw;
+   height: 100vh;
+   scroll-snap-align: center;
+}
+
+
+
+/* CSS background */
+.myelement {
+    background-image: url('myimage.svg');
+}
+
+
+
+.mysvgbackground {
+    background: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><circle cx="400" cy="300" r="50" stroke-width="5" stroke="#f00"  fill="#ff0" /></svg>') center center no-repeat;
+}
+
+
+
+#invader {
+    display: block;
+    width: 200px;
+}
+  
+#invader path {
+    stroke-width: 0;
+    fill: #080;
+    stroke: #f00;
+}
+
+#invader path:hover {
+    fill: blue;
+}
+
+/* CSS styling for all SVG circles */
+circle {
+    stroke-width: 20;
+    stroke: #f00;
+    fill: #ff0;
+}
+
+
+svg.folder { fill: #f7d674; }

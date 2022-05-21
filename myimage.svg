@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <g
+       id="g69"
+       style="fill:#000000">
+      <path
+         id="path81"
+         style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="M 40.718737,123.42509 139.86869,62.367777 V 195.96548 L 40.718737,162.31821 Z"
+         points="139.86869,62.367777 139.86869,195.96548 40.718737,162.31821 40.718737,123.42509 " />
+      <path
+         id="path71"
+         style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="m 29.021573,121.69244 v 41.58059 l 11.697164,-0.95482 v -38.89312 z"
+         points="29.021573,163.27303 40.718737,162.31821 40.718737,123.42509 29.021573,121.69244 " />
+      <path
+         id="path79"
+         style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="M 29.021573,163.27303 119.85533,209.5107 139.86869,195.96548 40.718737,162.31821 Z"
+         points="119.85533,209.5107 139.86869,195.96548 40.718737,162.31821 29.021573,163.27303 " />
+      <path
+         id="path73"
+         style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="M 29.021573,121.69244 119.85533,37.788238 139.86869,62.367777 40.718737,123.42509 Z"
+         points="119.85533,37.788238 139.86869,62.367777 40.718737,123.42509 29.021573,121.69244 " />
+      <path
+         id="path77"
+         style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="M 119.85533,37.788238 V 209.5107 l 20.01336,-13.54522 V 62.367777 Z"
+         points="119.85533,209.5107 139.86869,195.96548 139.86869,62.367777 119.85533,37.788238 " />
+      <path
+         id="path75"
+         style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+         d="M 29.021573,121.69244 119.85533,37.788238 V 209.5107 L 29.021573,163.27303 Z"
+         points="119.85533,37.788238 119.85533,209.5107 29.021573,163.27303 29.021573,121.69244 " />
+      <text
+         xml:space="preserve"
+         style="font-size:3.175px;fill:#000000;stroke-width:0.264583"
+         x="56.912437"
+         y="143.22334"
+         id="text344"><tspan
+           id="tspan342"
+           style="stroke-width:0.264583"
+           x="56.912437"
+           y="143.22334">t</tspan></text>
+    </g>
+  </g>
+</svg>
