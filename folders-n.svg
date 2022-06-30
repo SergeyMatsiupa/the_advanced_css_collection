@@ -4,7 +4,7 @@
       <title>folder</title>
       <path d="M14 4l4 4h14v22h-32v-26z"></path>
     </symbol>
-    <!-- <symbol id="icon-folder-open" viewBox="0 0 32 32">
+    <symbol id="icon-folder-open" viewBox="0 0 32 32">
       <title>open</title>
       <path d="M26 30l6-16h-26l-6 16zM4 12l-4 18v-26h9l4 4h13v4z">
       </path>
@@ -25,6 +25,6 @@
     <symbol id="icon-folder-upload" viewBox="0 0 32 32">
       <title>upload</title>
       <path d="M18 8l-4-4h-14v26h32v-22h-14zM16 15l7 7h-5v8h-4v-8h-5l7-7z"></path>
-    </symbol> -->
+    </symbol>
   </defs>
 </svg>

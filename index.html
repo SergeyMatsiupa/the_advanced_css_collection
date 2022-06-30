@@ -128,10 +128,25 @@
   </svg>
   <p>The SVG is now part of the DOM.</p>
   <hr>
+  <!-- this shit doesn't works localy -->
   <svg class="folder" viewBox="0 0 50 50">
-    <!-- <use href="folders-n.svg#icon-folder"></use> -->
-    <path d="M14 4l4 4h14v22h-32v-26z"></path>
-    <use href="./folder.svg"></use>
+    <use href="folders-n.svg#icon-folder-upload"></use>
+    <!-- <path d="M14 4l4 4h14v22h-32v-26z"></path> -->
+    <!-- <use href="folder.svg#ttt1"></use> -->
   </svg>
+  <hr>
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" 
+    style="position: absolute; width: 0; height: 0; overflow: hidden;">
+    <defs>
+      <clipPath id="clip">
+        <text x="0" y="200" font-family="Arial" font-size="10em" font-weight="800">
+        Text Clip</text>
+      </clipPath>
+    </defs>
+  </svg>
+  <div class="area"></div>
+  <hr>
+  <img src="invader.svg" alt="">
+  <script src="script.js"></script>
 </body>
 </html>
